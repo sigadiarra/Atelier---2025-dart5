@@ -1,7 +1,7 @@
 
 void calcul() {
   try {
-    int resultat = 12 ~/ 0; 
+    int resultat = 678 ~/ 0; 
     print(resultat);
   } catch (e) {
     print("Division impossible");
